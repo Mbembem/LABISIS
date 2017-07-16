@@ -1,0 +1,11 @@
+.spanish {
+display:inline-block;
+}
+
+li .spanish {
+display:inline;
+}
+
+.english {
+display:none;
+}
